@@ -1,29 +1,31 @@
-
-{                                                                                
-  "name": "be.elab.toyboat",                              
-  "displayName": "Toy Boat 10 ",                        
-  "version": "0.0.1",                         
-  "unity": "2018.1",                             
-  "unityRelease": "",                             
-  "description": "Just a small demo of a boat for the Quai10 workshop project.",                         
-  "keywords": ["Script","Tool"],                       
-  "dependencies":{},     
-  "relatedPackages":{},
+{
+  "name": "be.elab.toyboat",
+  "displayName": "\ud83e\uddf0,Toy: Benchy Boat",
+  "version": "0.0.1",
+  "unity": "2018.1",
+  "description": "Just a small demo of a boat for the Quai10 workshop project.",
+  "keywords": [
+    "Script",
+    "Tool"
+  ],
+  "relatedPackages": {},
   "samples": [
     {
       "displayName": "Demo Scene",
       "description": "Example d'utilisation de l'outil.",
       "path": "Scene/Demo"
     }
-  ],  
-  "author" : {
-"name":"Eloi Stree",
-"mail":"",
-"url":""},     
-  "repository":{
-"type":"Git",
-"url":"https://github.com/EloiStree/2024_09_23_Quai10Boat.git",
-"footprint":"",
-"revision":""},     
-  "category": "Script"                   
-} 
+  ],
+  "author": {
+    "name": "Eloi Stree",
+    "mail": "",
+    "url": ""
+  },
+  "repository": {
+    "type": "Git",
+    "url": "https://github.com/EloiStree/2024_09_23_Quai10Boat.git",
+    "footprint": "",
+    "revision": ""
+  },
+  "category": "Script"
+}
